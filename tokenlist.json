@@ -1,0 +1,126 @@
+{
+  "name": "KuCake token List",
+  "timestamp": "2022-04-15T22:55:13.889Z",
+  "version": {
+    "major": 1,
+    "minor": 2,
+    "patch": 6
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmZgpZq1HkVS7YCThNJeR51KFVo5AL8P3ThA2y9wcw53p9",
+  "keywords": [
+    "KuCake",
+    "default",
+    "Kcs"
+  ],
+  "tokens": [
+    {
+      "name": "KCC-Peg Wrapped BTC Token",
+      "address": "0xf57a7ee19a628e4d475b72d6c9dd847c50636e01",
+      "symbol": "WBTC",
+      "decimals": 18,
+      "chainId": 322,
+      "whitelist" : true,
+      "logoURI": "https://icon.kucake.com/testkcc/0xf57a7ee19a628e4d475b72d6c9dd847c50636e01.png"
+    },
+    {
+      "name": "KCC-Peg Wrapped Ether Token",
+      "address": "0xf8cb9f1d136ff4c883320b5b4fa80048b888f459",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 322,
+      "whitelist" : true,
+      "logoURI": "https://icon.kucake.com/testkcc/0xf8cb9f1d136ff4c883320b5b4fa80048b888f459.png"
+    },
+    {
+      "name": "KCC-Peg Tether USD Token",
+      "address": "0x67f6a7bbe0da067a747c6b2bedf8abbf7d6f60dc",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 322,
+      "whitelist" : true,
+      "logoURI": "https://icon.kucake.com/testkcc/0x67f6a7bbe0da067a747c6b2bedf8abbf7d6f60dc.png"
+    },
+    {
+      "name": "KCC-Peg USD Coin",
+      "address": "0xd6c7e27a598714c2226404eb054e0c074c906fc9",
+      "symbol": "USDC",
+      "decimals": 18,
+      "chainId": 322,
+      "whitelist" : true,
+      "logoURI": "https://icon.kucake.com/testkcc/0xd6c7e27a598714c2226404eb054e0c074c906fc9.png"
+    },
+    {
+      "name": "KCC-Peg Dai Stablecoin",
+      "address": "0x07d169f52fcb96a9f56325f510528e0d65ca4952",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 322,
+      "whitelist" : true,
+      "logoURI": "https://icon.kucake.com/testkcc/0x07d169f52fcb96a9f56325f510528e0d65ca4952.png"
+    },
+    {
+      "name": "Wrapped KCS Token",
+      "address": "0x04f3Cf7568cf67091051251f624150229B26bAE4",
+      "symbol": "WKCS",
+      "decimals": 18,
+      "chainId": 322,
+      "whitelist" : true,
+      "logoURI": "https://icon.kucake.com/testkcc/0x04f3cf7568cf67091051251f624150229b26bae4.png"
+    },
+    {
+      "name": "KCC-Peg Wrapped BTC Token",
+      "address": "0x218c3c3d49d0e7b37aff0d8bb079de36ae61a4c0",
+      "symbol": "WBTC",
+      "decimals": 18,
+      "chainId": 321,
+      "whitelist" : true,
+      "logoURI": "https://icon.kucake.com/kcc/0x218c3c3d49d0e7b37aff0d8bb079de36ae61a4c0.png"
+    },
+    {
+      "name": "KCC-Peg Wrapped Ether Token",
+      "address": "0xf55af137a98607f7ed2efefa4cd2dfe70e4253b1",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 321,
+      "whitelist" : true,
+      "logoURI": "https://icon.kucake.com/kcc/0xf55af137a98607f7ed2efefa4cd2dfe70e4253b1.png"
+    },
+    {
+      "name": "KCC-Peg Tether USD Token",
+      "address": "0x0039f574ee5cc39bdd162e9a88e3eb1f111baf48",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 321,
+      "whitelist" : true,
+      "logoURI": "https://icon.kucake.com/kcc/0x0039f574ee5cc39bdd162e9a88e3eb1f111baf48.png"
+    },
+    {
+      "name": "KCC-Peg USD Coin",
+      "address": "0x980a5afef3d17ad98635f6c5aebcbaeded3c3430",
+      "symbol": "USDC",
+      "decimals": 18,
+      "chainId": 321,
+      "whitelist" : true,
+      "logoURI": "https://icon.kucake.com/kcc/0x980a5afef3d17ad98635f6c5aebcbaeded3c3430.png"
+    },
+    {
+      "name": "KCC-Peg Dai Stablecoin",
+      "address": "0xc9baa8cfdde8e328787e29b4b078abf2dadc2055",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 321,
+      "whitelist" : true,
+      "logoURI": "https://icon.kucake.com/kcc/0xc9baa8cfdde8e328787e29b4b078abf2dadc2055.png"
+    },
+    {
+      "name": "Wrapped KCS Token",
+      "address": "0x4446fc4eb47f2f6586f9faab68b3498f86c07521",
+      "symbol": "WKCS",
+      "decimals": 18,
+      "chainId": 321,
+      "whitelist" : true,
+      "logoURI": "https://icon.kucake.com/kcc/0x4446fc4eb47f2f6586f9faab68b3498f86c07521.png"
+    }
+  ]
+}
